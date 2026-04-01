@@ -55,6 +55,10 @@ Open `finance-dashboard.html` directly in any modern browser — no server or bu
 - Toast notifications for all user actions
 
 ---
+## Live Demo
+https://squirrelk6755-ctrl.github.io/Finance_Dashboard/
+
+---
 
 ## Optional Enhancements Included
 
