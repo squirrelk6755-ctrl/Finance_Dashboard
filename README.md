@@ -9,6 +9,10 @@ A clean, interactive finance dashboard built as part of the Zorvyn Frontend Deve
 Open `finance-dashboard.html` directly in any modern browser — no server or build step required.
 
 ---
+## Live Demo
+https://squirrelk6755-ctrl.github.io/Finance_Dashboard/
+
+---
 
 ## Features Implemented
 
@@ -53,10 +57,6 @@ Open `finance-dashboard.html` directly in any modern browser — no server or bu
 - Smooth animations on cards, modals, and toasts
 - Empty state handling when no transactions match filters
 - Toast notifications for all user actions
-
----
-## Live Demo
-https://squirrelk6755-ctrl.github.io/Finance_Dashboard/
 
 ---
 
